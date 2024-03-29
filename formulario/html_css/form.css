@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+div {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  color: black;
+}
+label {
+  display: block;
+  margin-bottom: 1%;
+  color: grey;
+  text-align: center;
+}
+
+input[type="text"] {
+  width: 80%;
+  padding: 1%;
+  margin-bottom: 1%;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+
+input[type="submit"] {
+  width: 80%;
+  padding: 1%;
+  background-color: gray;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+input[type="submit"]:hover {
+  background-color: blueviolet;
+}
+input[type="text"]:hover {
+  background-color: lightgray;
+}
