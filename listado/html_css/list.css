@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: blueviolet; 
+    font-family: Arial, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: lightgray; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: dark;
+}
+
+h2 {
+    color: blueviolet; 
+}
